@@ -96,13 +96,11 @@ a.btn.btn-primary.btn-lg:hover{
 
 h1.font{
 	margin: 0px;
-	width: 100%;
 	font-family: "primetime";
 	font-style: normal;
 	font-weight: bold;
-	font-size: 50px;
 	color: white;
-	padding-bottom: 100px;
+	padding-bottom: 150px;
 }
 
 .div2 {
@@ -289,7 +287,6 @@ div.ctnhdr-2{
 	background-repeat: no-repeat;
 	background-color: #d3d3d3;
 	font-family: 'Oxygen', sans-serif;
-	/*margin-top: 70px;*/
 }
 
 h1.title { 
